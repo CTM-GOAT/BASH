@@ -1,0 +1,2 @@
+# Bash
+Generic Bash scripts
